@@ -1,6 +1,6 @@
 import * as axios from 'axios';
 
-const BASE_URL = "http://gh-trending-api.herokuapp.com";
+const BASE_URL = "https://gh-trending-api.herokuapp.com";
 
 var axiosInstance = axios.create();
 axiosInstance.defaults.timeout = process.env.REACT_APP_TIMEOUT;
