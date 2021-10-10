@@ -1,0 +1,912 @@
+[
+  {
+    "rank": 1,
+    "username": "peng-zhihui",
+    "repositoryName": "Dummy-Robot",
+    "url": "https://github.com/peng-zhihui/Dummy-Robot",
+    "description": "我的超迷你机械臂机器人项目。",
+    "language": null,
+    "languageColor": null,
+    "totalStars": 2670,
+    "forks": 300,
+    "starsSince": 729,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "peng-zhihui",
+        "url": "https://github.com/peng-zhihui",
+        "avatar": "https://avatars.githubusercontent.com/u/12994887?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "username": "trailofbits",
+    "repositoryName": "algo",
+    "url": "https://github.com/trailofbits/algo",
+    "description": "Set up a personal VPN in the cloud",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 22807,
+    "forks": 1908,
+    "starsSince": 355,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "jackivanov",
+        "url": "https://github.com/jackivanov",
+        "avatar": "https://avatars.githubusercontent.com/u/17044561?s=40&v=4"
+      },
+      {
+        "username": "dguido",
+        "url": "https://github.com/dguido",
+        "avatar": "https://avatars.githubusercontent.com/u/294844?s=40&v=4"
+      },
+      {
+        "username": "davidemyers",
+        "url": "https://github.com/davidemyers",
+        "avatar": "https://avatars.githubusercontent.com/u/26753976?s=40&v=4"
+      },
+      {
+        "username": "TC1977",
+        "url": "https://github.com/TC1977",
+        "avatar": "https://avatars.githubusercontent.com/u/37350377?s=40&v=4"
+      },
+      {
+        "username": "defunctio",
+        "url": "https://github.com/defunctio",
+        "avatar": "https://avatars.githubusercontent.com/u/20653242?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "username": "Snailclimb",
+    "repositoryName": "JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "totalStars": 111776,
+    "forks": 38276,
+    "starsSince": 49,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "Snailclimb",
+        "url": "https://github.com/Snailclimb",
+        "avatar": "https://avatars.githubusercontent.com/u/29880145?s=40&v=4"
+      },
+      {
+        "username": "anaer",
+        "url": "https://github.com/anaer",
+        "avatar": "https://avatars.githubusercontent.com/u/4637100?s=40&v=4"
+      },
+      {
+        "username": "TommyMerlin",
+        "url": "https://github.com/TommyMerlin",
+        "avatar": "https://avatars.githubusercontent.com/u/32566324?s=40&v=4"
+      },
+      {
+        "username": "LiWenGu",
+        "url": "https://github.com/LiWenGu",
+        "avatar": "https://avatars.githubusercontent.com/u/15909210?s=40&v=4"
+      },
+      {
+        "username": "haiqiang0225",
+        "url": "https://github.com/haiqiang0225",
+        "avatar": "https://avatars.githubusercontent.com/u/43314997?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "username": "louislam",
+    "repositoryName": "uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "totalStars": 6228,
+    "forks": 329,
+    "starsSince": 421,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "louislam",
+        "url": "https://github.com/louislam",
+        "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4"
+      },
+      {
+        "username": "Ponkhy",
+        "url": "https://github.com/Ponkhy",
+        "avatar": "https://avatars.githubusercontent.com/u/43121732?s=40&v=4"
+      },
+      {
+        "username": "Saibamen",
+        "url": "https://github.com/Saibamen",
+        "avatar": "https://avatars.githubusercontent.com/u/905878?s=40&v=4"
+      },
+      {
+        "username": "chakflying",
+        "url": "https://github.com/chakflying",
+        "avatar": "https://avatars.githubusercontent.com/u/3271800?s=40&v=4"
+      },
+      {
+        "username": "philippdormann",
+        "url": "https://github.com/philippdormann",
+        "avatar": "https://avatars.githubusercontent.com/u/17651032?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "username": "vuejs",
+    "repositoryName": "vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "TypeScript",
+    "languageColor": "#2b7489",
+    "totalStars": 25261,
+    "forks": 4334,
+    "starsSince": 34,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "yyx990803",
+        "url": "https://github.com/yyx990803",
+        "avatar": "https://avatars.githubusercontent.com/u/499550?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot-preview",
+        "url": "https://github.com/apps/dependabot-preview",
+        "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
+      },
+      {
+        "username": "HcySunYang",
+        "url": "https://github.com/HcySunYang",
+        "avatar": "https://avatars.githubusercontent.com/u/14146560?s=40&v=4"
+      },
+      {
+        "username": "underfin",
+        "url": "https://github.com/underfin",
+        "avatar": "https://avatars.githubusercontent.com/u/14008915?s=40&v=4"
+      },
+      {
+        "username": "pikax",
+        "url": "https://github.com/pikax",
+        "avatar": "https://avatars.githubusercontent.com/u/4620458?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "username": "babysor",
+    "repositoryName": "MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "totalStars": 8529,
+    "forks": 873,
+    "starsSince": 163,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "babysor",
+        "url": "https://github.com/babysor",
+        "avatar": "https://avatars.githubusercontent.com/u/7423248?s=40&v=4"
+      },
+      {
+        "username": "oceanarium",
+        "url": "https://github.com/oceanarium",
+        "avatar": "https://avatars.githubusercontent.com/u/12797292?s=40&v=4"
+      },
+      {
+        "username": "hertz-pj",
+        "url": "https://github.com/hertz-pj",
+        "avatar": "https://avatars.githubusercontent.com/u/17819608?s=40&v=4"
+      },
+      {
+        "username": "Nthily",
+        "url": "https://github.com/Nthily",
+        "avatar": "https://avatars.githubusercontent.com/u/31311826?s=40&v=4"
+      },
+      {
+        "username": "XiuChen-Liu",
+        "url": "https://github.com/XiuChen-Liu",
+        "avatar": "https://avatars.githubusercontent.com/u/55180847?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "username": "facebook",
+    "repositoryName": "flipper",
+    "url": "https://github.com/facebook/flipper",
+    "description": "A desktop debugging platform for mobile developers.",
+    "language": "TypeScript",
+    "languageColor": "#2b7489",
+    "totalStars": 9744,
+    "forks": 693,
+    "starsSince": 184,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "passy",
+        "url": "https://github.com/passy",
+        "avatar": "https://avatars.githubusercontent.com/u/9906?s=40&v=4"
+      },
+      {
+        "username": "mweststrate",
+        "url": "https://github.com/mweststrate",
+        "avatar": "https://avatars.githubusercontent.com/u/1820292?s=40&v=4"
+      },
+      {
+        "username": "jknoxville",
+        "url": "https://github.com/jknoxville",
+        "avatar": "https://avatars.githubusercontent.com/u/692011?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "url": "https://github.com/apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "priteshrnandgaonkar",
+        "url": "https://github.com/priteshrnandgaonkar",
+        "avatar": "https://avatars.githubusercontent.com/u/3865908?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "username": "fatedier",
+    "repositoryName": "frp",
+    "url": "https://github.com/fatedier/frp",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "totalStars": 48992,
+    "forks": 9059,
+    "starsSince": 30,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "fatedier",
+        "url": "https://github.com/fatedier",
+        "avatar": "https://avatars.githubusercontent.com/u/7346661?s=40&v=4"
+      },
+      {
+        "username": "bingtianbaihua",
+        "url": "https://github.com/bingtianbaihua",
+        "avatar": "https://avatars.githubusercontent.com/u/4812302?s=40&v=4"
+      },
+      {
+        "username": "GuyLewin",
+        "url": "https://github.com/GuyLewin",
+        "avatar": "https://avatars.githubusercontent.com/u/16872?s=40&v=4"
+      },
+      {
+        "username": "yuyulei",
+        "url": "https://github.com/yuyulei",
+        "avatar": "https://avatars.githubusercontent.com/u/18277081?s=40&v=4"
+      },
+      {
+        "username": "Hurricanezwf",
+        "url": "https://github.com/Hurricanezwf",
+        "avatar": "https://avatars.githubusercontent.com/u/7840122?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "username": "ossrs",
+    "repositoryName": "srs",
+    "url": "https://github.com/ossrs/srs",
+    "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "language": "C++",
+    "languageColor": "#f34b7d",
+    "totalStars": 15806,
+    "forks": 4087,
+    "starsSince": 10,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "winlinvip",
+        "url": "https://github.com/winlinvip",
+        "avatar": "https://avatars.githubusercontent.com/u/2777660?s=40&v=4"
+      },
+      {
+        "username": "winterserver",
+        "url": "https://github.com/winterserver",
+        "avatar": "https://avatars.githubusercontent.com/u/6069955?s=40&v=4"
+      },
+      {
+        "username": "xialixin",
+        "url": "https://github.com/xialixin",
+        "avatar": "https://avatars.githubusercontent.com/u/7134770?s=40&v=4"
+      },
+      {
+        "username": "xiaozhihong",
+        "url": "https://github.com/xiaozhihong",
+        "avatar": "https://avatars.githubusercontent.com/u/8449258?s=40&v=4"
+      },
+      {
+        "username": "runner365",
+        "url": "https://github.com/runner365",
+        "avatar": "https://avatars.githubusercontent.com/u/16889978?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "username": "vinta",
+    "repositoryName": "awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 103480,
+    "forks": 19980,
+    "starsSince": 77,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "vinta",
+        "url": "https://github.com/vinta",
+        "avatar": "https://avatars.githubusercontent.com/u/652070?s=40&v=4"
+      },
+      {
+        "username": "dhamaniasad",
+        "url": "https://github.com/dhamaniasad",
+        "avatar": "https://avatars.githubusercontent.com/u/4560482?s=40&v=4"
+      },
+      {
+        "username": "vndmtrx",
+        "url": "https://github.com/vndmtrx",
+        "avatar": "https://avatars.githubusercontent.com/u/596651?s=40&v=4"
+      },
+      {
+        "username": "ellisonleao",
+        "url": "https://github.com/ellisonleao",
+        "avatar": "https://avatars.githubusercontent.com/u/178641?s=40&v=4"
+      },
+      {
+        "username": "ihebu",
+        "url": "https://github.com/ihebu",
+        "avatar": "https://avatars.githubusercontent.com/u/47149194?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "username": "yt-dlp",
+    "repositoryName": "yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 7291,
+    "forks": 456,
+    "starsSince": 93,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "dstftw",
+        "url": "https://github.com/dstftw",
+        "avatar": "https://avatars.githubusercontent.com/u/1908898?s=40&v=4"
+      },
+      {
+        "username": "phihag",
+        "url": "https://github.com/phihag",
+        "avatar": "https://avatars.githubusercontent.com/u/779568?s=40&v=4"
+      },
+      {
+        "username": "remitamine",
+        "url": "https://github.com/remitamine",
+        "avatar": "https://avatars.githubusercontent.com/u/10879694?s=40&v=4"
+      },
+      {
+        "username": "jaimeMF",
+        "url": "https://github.com/jaimeMF",
+        "avatar": "https://avatars.githubusercontent.com/u/1239727?s=40&v=4"
+      },
+      {
+        "username": "yan12125",
+        "url": "https://github.com/yan12125",
+        "avatar": "https://avatars.githubusercontent.com/u/1937689?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "username": "ihciah",
+    "repositoryName": "clean-dns-bpf",
+    "url": "https://github.com/ihciah/clean-dns-bpf",
+    "description": "基于 Rust + eBPF 丢弃 GFW DNS 污染包",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "totalStars": 695,
+    "forks": 35,
+    "starsSince": 114,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "ihciah",
+        "url": "https://github.com/ihciah",
+        "avatar": "https://avatars.githubusercontent.com/u/1707505?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "username": "sdras",
+    "repositoryName": "awesome-actions",
+    "url": "https://github.com/sdras/awesome-actions",
+    "description": "A curated list of awesome actions to use on GitHub",
+    "language": null,
+    "languageColor": null,
+    "totalStars": 15531,
+    "forks": 1001,
+    "starsSince": 194,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "gep13",
+        "url": "https://github.com/gep13",
+        "avatar": "https://avatars.githubusercontent.com/u/1271146?s=40&v=4"
+      },
+      {
+        "username": "sdras",
+        "url": "https://github.com/sdras",
+        "avatar": "https://avatars.githubusercontent.com/u/2281088?s=40&v=4"
+      },
+      {
+        "username": "jessicalostinspace",
+        "url": "https://github.com/jessicalostinspace",
+        "avatar": "https://avatars.githubusercontent.com/u/9055362?s=40&v=4"
+      },
+      {
+        "username": "fabasoad",
+        "url": "https://github.com/fabasoad",
+        "avatar": "https://avatars.githubusercontent.com/u/2127723?s=40&v=4"
+      },
+      {
+        "username": "peaceiris",
+        "url": "https://github.com/peaceiris",
+        "avatar": "https://avatars.githubusercontent.com/u/30958501?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "username": "Hack-with-Github",
+    "repositoryName": "Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": null,
+    "languageColor": null,
+    "totalStars": 47015,
+    "forks": 7421,
+    "starsSince": 395,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "Chan9390",
+        "url": "https://github.com/Chan9390",
+        "avatar": "https://avatars.githubusercontent.com/u/12944530?s=40&v=4"
+      },
+      {
+        "username": "sundowndev",
+        "url": "https://github.com/sundowndev",
+        "avatar": "https://avatars.githubusercontent.com/u/16480203?s=40&v=4"
+      },
+      {
+        "username": "teejayen",
+        "url": "https://github.com/teejayen",
+        "avatar": "https://avatars.githubusercontent.com/u/12872656?s=40&v=4"
+      },
+      {
+        "username": "inputsh",
+        "url": "https://github.com/inputsh",
+        "avatar": "https://avatars.githubusercontent.com/u/4890548?s=40&v=4"
+      },
+      {
+        "username": "yeyintminthuhtut",
+        "url": "https://github.com/yeyintminthuhtut",
+        "avatar": "https://avatars.githubusercontent.com/u/6358256?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "username": "anncwb",
+    "repositoryName": "vue-vben-admin",
+    "url": "https://github.com/anncwb/vue-vben-admin",
+    "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "language": "Vue",
+    "languageColor": "#41b883",
+    "totalStars": 6838,
+    "forks": 1806,
+    "starsSince": 10,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "anncwb",
+        "url": "https://github.com/anncwb",
+        "avatar": "https://avatars.githubusercontent.com/u/28132598?s=40&v=4"
+      },
+      {
+        "username": "mynetfan",
+        "url": "https://github.com/mynetfan",
+        "avatar": "https://avatars.githubusercontent.com/u/17241274?s=40&v=4"
+      },
+      {
+        "username": "zuihou",
+        "url": "https://github.com/zuihou",
+        "avatar": "https://avatars.githubusercontent.com/u/8500410?s=40&v=4"
+      },
+      {
+        "username": "vben-admin",
+        "url": "https://github.com/vben-admin",
+        "avatar": "https://avatars.githubusercontent.com/u/72597450?s=40&v=4"
+      },
+      {
+        "username": "jiangmaniu",
+        "url": "https://github.com/jiangmaniu",
+        "avatar": "https://avatars.githubusercontent.com/u/50100681?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "username": "Python-World",
+    "repositoryName": "Python_and_the_Web",
+    "url": "https://github.com/Python-World/Python_and_the_Web",
+    "description": "Build Bots, Scrape a website or use an API to solve a problem.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 370,
+    "forks": 212,
+    "starsSince": 7,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "AdityaJ7",
+        "url": "https://github.com/AdityaJ7",
+        "avatar": "https://avatars.githubusercontent.com/u/42397096?s=40&v=4"
+      },
+      {
+        "username": "apps/allcontributors",
+        "url": "https://github.com/apps/allcontributors",
+        "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
+      },
+      {
+        "username": "apps/mergify",
+        "url": "https://github.com/apps/mergify",
+        "avatar": "https://avatars.githubusercontent.com/in/10562?s=40&v=4"
+      },
+      {
+        "username": "ImgBotApp",
+        "url": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4"
+      },
+      {
+        "username": "AnkDos",
+        "url": "https://github.com/AnkDos",
+        "avatar": "https://avatars.githubusercontent.com/u/20462784?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "username": "wimpysworld",
+    "repositoryName": "quickemu",
+    "url": "https://github.com/wimpysworld/quickemu",
+    "description": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "totalStars": 1852,
+    "forks": 75,
+    "starsSince": 218,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "flexiondotorg",
+        "url": "https://github.com/flexiondotorg",
+        "avatar": "https://avatars.githubusercontent.com/u/304639?s=40&v=4"
+      },
+      {
+        "username": "ymauray",
+        "url": "https://github.com/ymauray",
+        "avatar": "https://avatars.githubusercontent.com/u/2527227?s=40&v=4"
+      },
+      {
+        "username": "TwoD",
+        "url": "https://github.com/TwoD",
+        "avatar": "https://avatars.githubusercontent.com/u/451168?s=40&v=4"
+      },
+      {
+        "username": "secscout",
+        "url": "https://github.com/secscout",
+        "avatar": "https://avatars.githubusercontent.com/u/69906659?s=40&v=4"
+      },
+      {
+        "username": "cmanville",
+        "url": "https://github.com/cmanville",
+        "avatar": "https://avatars.githubusercontent.com/u/27926827?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "username": "mattiasgustavsson",
+    "repositoryName": "dos-like",
+    "url": "https://github.com/mattiasgustavsson/dos-like",
+    "description": "Engine for making things with a MS-DOS feel, but for modern platforms",
+    "language": "C",
+    "languageColor": "#555555",
+    "totalStars": 348,
+    "forks": 15,
+    "starsSince": 117,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "mattiasgustavsson",
+        "url": "https://github.com/mattiasgustavsson",
+        "avatar": "https://avatars.githubusercontent.com/u/15855267?s=40&v=4"
+      },
+      {
+        "username": "nightmareci",
+        "url": "https://github.com/nightmareci",
+        "avatar": "https://avatars.githubusercontent.com/u/46542221?s=40&v=4"
+      },
+      {
+        "username": "thp",
+        "url": "https://github.com/thp",
+        "avatar": "https://avatars.githubusercontent.com/u/135241?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "username": "apache",
+    "repositoryName": "rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "description": "Mirror of Apache RocketMQ",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "totalStars": 15539,
+    "forks": 8635,
+    "starsSince": 12,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "zhouxinyu",
+        "url": "https://github.com/zhouxinyu",
+        "avatar": "https://avatars.githubusercontent.com/u/3961183?s=40&v=4"
+      },
+      {
+        "username": "duhenglucky",
+        "url": "https://github.com/duhenglucky",
+        "avatar": "https://avatars.githubusercontent.com/u/7938968?s=40&v=4"
+      },
+      {
+        "username": "dongeforever",
+        "url": "https://github.com/dongeforever",
+        "avatar": "https://avatars.githubusercontent.com/u/8434428?s=40&v=4"
+      },
+      {
+        "username": "vongosling",
+        "url": "https://github.com/vongosling",
+        "avatar": "https://avatars.githubusercontent.com/u/635581?s=40&v=4"
+      },
+      {
+        "username": "lizhanhui",
+        "url": "https://github.com/lizhanhui",
+        "avatar": "https://avatars.githubusercontent.com/u/641819?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "username": "donet5",
+    "repositoryName": "WebFirst",
+    "url": "https://github.com/donet5/WebFirst",
+    "description": ".NET CORE 代码生成器 ，Web中使用CodeFirst模式， 实体生成器，UI代码生成器，在线建表，导出文档，模版配置， WEB代码生成器 ，API代码生成器",
+    "language": "C#",
+    "languageColor": "#178600",
+    "totalStars": 355,
+    "forks": 107,
+    "starsSince": 10,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "donet5",
+        "url": "https://github.com/donet5",
+        "avatar": "https://avatars.githubusercontent.com/u/12455385?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "username": "raywenderlich",
+    "repositoryName": "flta-materials",
+    "url": "https://github.com/raywenderlich/flta-materials",
+    "description": "The projects and the materials that accompany the Flutter Apprentice book",
+    "language": "Dart",
+    "languageColor": "#00B4AB",
+    "totalStars": 859,
+    "forks": 320,
+    "starsSince": 79,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "funkyboy",
+        "url": "https://github.com/funkyboy",
+        "avatar": "https://avatars.githubusercontent.com/u/348355?s=40&v=4"
+      },
+      {
+        "username": "kevindmoore",
+        "url": "https://github.com/kevindmoore",
+        "avatar": "https://avatars.githubusercontent.com/u/1521266?s=40&v=4"
+      },
+      {
+        "username": "Stef-GMS",
+        "url": "https://github.com/Stef-GMS",
+        "avatar": "https://avatars.githubusercontent.com/u/10969726?s=40&v=4"
+      },
+      {
+        "username": "vincentngo",
+        "url": "https://github.com/vincentngo",
+        "avatar": "https://avatars.githubusercontent.com/u/1634736?s=40&v=4"
+      },
+      {
+        "username": "mikekatz",
+        "url": "https://github.com/mikekatz",
+        "avatar": "https://avatars.githubusercontent.com/u/1330884?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "username": "herosi",
+    "repositoryName": "CTO",
+    "url": "https://github.com/herosi/CTO",
+    "description": "Call Tree Overviewer",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 134,
+    "forks": 14,
+    "starsSince": 15,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "herosi",
+        "url": "https://github.com/herosi",
+        "avatar": "https://avatars.githubusercontent.com/u/20717881?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "username": "alibaba",
+    "repositoryName": "Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "totalStars": 17498,
+    "forks": 6121,
+    "starsSince": 5,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "sczyh30",
+        "url": "https://github.com/sczyh30",
+        "avatar": "https://avatars.githubusercontent.com/u/9434884?s=40&v=4"
+      },
+      {
+        "username": "CarpenterLee",
+        "url": "https://github.com/CarpenterLee",
+        "avatar": "https://avatars.githubusercontent.com/u/18542108?s=40&v=4"
+      },
+      {
+        "username": "cdfive",
+        "url": "https://github.com/cdfive",
+        "avatar": "https://avatars.githubusercontent.com/u/31885791?s=40&v=4"
+      },
+      {
+        "username": "jasonjoo2010",
+        "url": "https://github.com/jasonjoo2010",
+        "avatar": "https://avatars.githubusercontent.com/u/17573073?s=40&v=4"
+      },
+      {
+        "username": "linlinisme",
+        "url": "https://github.com/linlinisme",
+        "avatar": "https://avatars.githubusercontent.com/u/8200692?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "username": "alibaba",
+    "repositoryName": "spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "totalStars": 20270,
+    "forks": 6219,
+    "starsSince": 8,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "fangjian0423",
+        "url": "https://github.com/fangjian0423",
+        "avatar": "https://avatars.githubusercontent.com/u/5254035?s=40&v=4"
+      },
+      {
+        "username": "mercyblitz",
+        "url": "https://github.com/mercyblitz",
+        "avatar": "https://avatars.githubusercontent.com/u/533114?s=40&v=4"
+      },
+      {
+        "username": "flystar32",
+        "url": "https://github.com/flystar32",
+        "avatar": "https://avatars.githubusercontent.com/u/13148364?s=40&v=4"
+      },
+      {
+        "username": "yuhuangbin",
+        "url": "https://github.com/yuhuangbin",
+        "avatar": "https://avatars.githubusercontent.com/u/26948026?s=40&v=4"
+      },
+      {
+        "username": "theonefx",
+        "url": "https://github.com/theonefx",
+        "avatar": "https://avatars.githubusercontent.com/u/3760138?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "username": "vuejs",
+    "repositoryName": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "totalStars": 189069,
+    "forks": 30367,
+    "starsSince": 64,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "yyx990803",
+        "url": "https://github.com/yyx990803",
+        "avatar": "https://avatars.githubusercontent.com/u/499550?s=40&v=4"
+      },
+      {
+        "username": "vue-bot",
+        "url": "https://github.com/vue-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/26507650?s=40&v=4"
+      },
+      {
+        "username": "Hanks10100",
+        "url": "https://github.com/Hanks10100",
+        "avatar": "https://avatars.githubusercontent.com/u/8401776?s=40&v=4"
+      },
+      {
+        "username": "posva",
+        "url": "https://github.com/posva",
+        "avatar": "https://avatars.githubusercontent.com/u/664177?s=40&v=4"
+      },
+      {
+        "username": "defcc",
+        "url": "https://github.com/defcc",
+        "avatar": "https://avatars.githubusercontent.com/u/2603918?s=40&v=4"
+      }
+    ]
+  }
+]

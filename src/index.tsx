@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// import "./assets/vendor/font-awesome/css/font-awesome.min.css";
+import "./assets/scss/styles.scss";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
