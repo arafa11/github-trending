@@ -7,7 +7,7 @@ import { RepoType } from '../../types';
 import Repo from '../../components/Repo';
 
 const getRepos = async (page: number) => {
-  const res = await axios.get(`/repositories`);
+  const res = await axios.get(`https://gh-trending-api.herokuapp.com/repositories`);
   return res.data;
 }
 
