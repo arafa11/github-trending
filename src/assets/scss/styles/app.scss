@@ -1,0 +1,140 @@
+.App{
+  background-color: $bg-color;
+  color: $white;
+  padding-bottom: 4rem;
+  .navbar-dark {
+    background-color: $bg-color;
+    color: $white;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid $gray-700;
+    h1 {
+      color: $white;
+      text-align: center;
+      // margin: 0 auto;
+      font-size: 2rem;
+      
+      display: block;
+      width: 100%;
+      margin-top: .5rem;
+      margin-bottom: 0;
+    }
+    p{
+      text-align: center;
+      // background-color: red;
+      display: block;
+      width: 100%;
+      color: $gray-500;
+      margin-bottom: 0;
+      font-size: .9rem;
+      padding-top: 5px;
+    }
+  }
+  .page-wrap {
+    border: 1px solid $gray-700;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0;
+    .treding-header {
+      background-color: $primary-color;
+      padding: 1rem 2rem;
+      .filters {
+        display: inline;
+        float: right;
+        color: $gray-500;
+        font-size: .9rem;
+        span {
+          padding: .7rem;
+        }
+      }
+    }
+    button{
+      background-color: $primary-color;
+      border-color: $bg-color;
+      font-size: .9rem;
+    }
+    button.active {
+      background-color: $active-color;
+      border-color: $active-color;
+    }
+  }
+
+  .item {
+    border-bottom: 1px solid $gray-700;
+    padding: .8rem 2rem;
+    .description {
+      p {
+        font-size: .9rem;
+        color: $gray-500;
+      }
+    }
+    .footer {
+      span {
+        padding: 0 .5rem;
+        font-size: .8rem;
+      }
+      span:first-child {
+        padding: 0;
+      }
+      img {
+        width: 2.3rem;
+        height: 2.3rem;
+        border-radius: 2rem;
+        padding: 1px;
+        &:first {
+          padding-left: 1rem;
+        }
+      }
+    }
+  }
+  .item-top {
+    h3 {
+      display: inline-block;
+      font-size: 1.3rem;
+      svg {
+        font-size: 1rem;
+      }
+    }
+    .star-btn {
+      float: right;
+      svg {
+        padding-bottom: 1px;
+      }
+    }
+  }
+  .popular-repo{
+    span {
+      display: block;
+      font-size: .9rem;
+    }
+  }
+  .actions {
+    button {
+      float: right;
+    }
+  }
+  .rank{
+    // span{
+      font-size: .9;
+      color: $gray-700;
+    // }
+  }
+  .dev-info {
+    img {
+      width: 3rem;
+      height: 3rem;
+      border-radius: 2rem;
+      vertical-align: top;
+    }
+    .dev-name {
+      display: inline-block;
+      padding-left: 1rem;
+      h3 {
+        font-size: 1.2rem;
+      }
+      p {
+        font-size: .9rem;
+        color: $gray-500;
+      }
+    }
+  }
+}

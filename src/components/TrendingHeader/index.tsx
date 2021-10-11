@@ -7,14 +7,10 @@ import Path from '../../router/Path';
 const TrendingHeader = () => {
   const history = useHistory();
   const { pathname } = history.location;
-  // console.log(pathname);
-  // const [page, setPage] = useState('repos');
   const goTo = (path: string) => {
     if(path === 'developers') {
-      // setPage('developers');
       history.push("/developers");
     } else {
-      // setPage('repos');
       history.push("/repos");
     }
   }
@@ -25,6 +21,20 @@ const TrendingHeader = () => {
         <Button color="primary" onClick={() => goTo('repos')} active={pathname === Path.repos}>Repositories</Button>
         <Button color="primary" onClick={() => goTo('developers')} active={pathname === Path.developers}>Developers</Button>
       </ButtonGroup>
+      <div className="filters">
+        {  pathname === Path.repos ? 
+          <>
+            <span>Spoken Language : Any</span>
+            <span>Language : Any</span>
+            <span>Date Rang: Any</span>
+          </>
+          :
+          <>
+            <span>Language : Any</span>
+            <span>Date Rang: Any</span>
+          </>
+      }
+      </div>
     </div>
   )
 }

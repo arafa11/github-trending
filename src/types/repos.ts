@@ -2,6 +2,7 @@ export type RepoType = {
   rank: number;
   username: string;
   repositoryName: string;
+  url: string;
   description: string;
   language: string;
   languageColor: string;
